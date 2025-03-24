@@ -10,3 +10,6 @@ scikit-learn    Machine learning utilities (e.g., LabelBinarizer, train_test_spl
 plotly          Interactive visualizations
 keras           Deep learning library (now part of TensorFlow)
 tensorflow      Needed for keras.models and deep learning tasks
+
+
+pip install tqdm opencv-python imutils matplotlib scikit-learn plotly keras 
