@@ -1,0 +1,12 @@
+Library          Description
+----------------------------------------------
+tqdm            Progress bar for loops
+opencv-python   OpenCV for image processing
+os              Built-in module, no need to install
+shutil          Built-in module, no need to install
+imutils         Helper functions for OpenCV
+matplotlib      Visualization library
+scikit-learn    Machine learning utilities (e.g., LabelBinarizer, train_test_split)
+plotly          Interactive visualizations
+keras           Deep learning library (now part of TensorFlow)
+tensorflow      Needed for keras.models and deep learning tasks
