@@ -1,7 +1,8 @@
 import os
 import shutil
 
-img_path = "C:/Users/racco/Documents/python_project/braintumordetection/archive/"
+img_path = "C:/Users/racco/Documents/python_project/" \
+"braintumordetection/archive1/brain_tumor_dataset/"
 
 for kelas in os.listdir(img_path):
     if not kelas.startswith("."):
